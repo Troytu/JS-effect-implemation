@@ -1,0 +1,1 @@
+This is mainly some practice about javascript description
