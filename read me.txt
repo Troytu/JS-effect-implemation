@@ -1,1 +1,3 @@
-This is mainly some practice about javascript description
+This is mainly some practice about javascript description.
+
+1. the main page with dynamic js display.
